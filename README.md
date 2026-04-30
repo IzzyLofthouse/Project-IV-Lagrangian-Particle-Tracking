@@ -9,4 +9,6 @@ All other scripts are my own, with the exception of ICMultOptions.m, driver_SW.m
 
 Pictures from the project can be found in 'SW_share/SW_share/Pictures project', they are grouped (hopefully logically!). Some of the pictures included contain errors from previous itterations of code before it was corrected. 
 
+Files are zipped as they are relatively large. To view a file from the repository click it and then click 'view raw' which will download the zipped file. 
+
 The .mat files have not been included due to size limitations. 
