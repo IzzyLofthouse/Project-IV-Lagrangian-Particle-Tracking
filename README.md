@@ -1,4 +1,4 @@
-# Project-IV-Lagrangian-Particle-Tracking-in-the-Ocean
+# Project IV: Lagrangian-Particle-Tracking
 Matlab code for my 4th year project
 
 The majority of code for this project can be found in SW_share. Code comparing reconstructed Lagrangian velocity fields to the actual Lagrangian velocity field can be found in Averaging. The scripts in Project IV are for plots used in my project report. 
